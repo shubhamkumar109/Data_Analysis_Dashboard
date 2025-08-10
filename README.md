@@ -13,3 +13,4 @@ The varinda Store wants to create an annual sales report for 2022.so that, the o
 -	Percentage of Total Orders delivered.
 
 I developed a comprehensive project in Excel, creating multiple dashboards and tables to analyze the data. This process involved several stages, Including data preprocessing, data cleaning, and data visualization.
+## Dashbord
